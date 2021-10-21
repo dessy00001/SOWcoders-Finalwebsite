@@ -1,0 +1,154 @@
+h3{
+  color:#D4F3FD ;
+  text-align: center;
+  font-size: 23px;
+  font-style: italic;
+}
+
+p {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  text-align: left;
+  font-size: 80px;
+  text-decoration: underline white;
+}
+
+
+.banner {
+background-image:url(trees.jpg);
+background-size: cover;
+margin: 0px;
+}
+h4 {
+  text-align: left;
+  font-size: 30px;
+color:#D4F3FD ;
+}
+.space{
+  background-color: #ABE8FB ;
+  padding: 25px 25px 25px 25px;
+  border: lightblue solid 3px;
+  margin: 30px 25px 20px 15px;
+  text-align: center;
+  font-style: italic;
+  font-size: 30px;
+  color: black;
+}
+
+#DRSF {
+  background-image:linear-gradient(#5EA9E3,#5EA9E3,#5EA9E3,lightblue,lightblue,lightblue,lightblue,lightblue,lightblue,lightblue);
+}
+
+/*-------------------------------------------*/
+.active {
+  background-color: #04AA6D; /* Add an active/current color */
+
+}
+#rural {
+  width: 30%;
+  height: 30%;
+  align: left;
+}
+#school {
+  width: 30%;
+  height: 30%;
+}
+
+#rurals {
+  width: 30%;
+  height: 30%;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+ background-image: url(trees.jpg);
+ background-size: cover;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  margin: 5px;
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 9px 10px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #FACE74 ;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #FACE74 ;
+  color: white;
+}
+
+/*--------------------------------------------------------------*/
+
+#help {
+  background-color: #74DAFB;
+  font-size: 36px;
+  color: white;
+
+}
+
+#aim {
+  background-color: #74DAFB ;
+  font-size: 36px;
+  color: white ;
+  font-style: italic;
+}
+#About {
+  background-color:lightblue;
+  font-size: 36px;
+  color: white;
+}
+
+#video {
+  display:block;
+  padding-left: 400px;
+}
+
+h5 {
+  font-size: 15px;
+}
+h6 {
+  font-style: italic;
+}
+
+.button {
+  display:inline-flex;
+  height: 10%;
+  border: 2px solid white;
+  background-color: lightblue;
+  color: white;
+  font-size: 15px;
+  text-align: center;
+}
+h2 {
+  color: white;
+}
+#logo {
+  padding-left: 520px;
+  width:20%;
+  height: 30%;
+}
+
+
+#kids {
+  border: lightblue solid 3px;
+  align: center;
+  width: 30%;
+  height: 30%;
+}
+.div {
+  font-size: 10px;
+}
